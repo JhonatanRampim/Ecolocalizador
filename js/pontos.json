@@ -1,0 +1,26 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -22.4017015,
+        "Longitude": -47.5759786,
+		"Descricao": "Ecoponto Jardim São Paulo, R. 1 B Jsp, 80-204 - Jardim Sao Paulo, Rio Claro - SP,"
+    },
+    {
+		"Id": 2,
+        "Latitude": -22.386978,
+        "Longitude": -47.5423488,
+		"Descricao": "Ecoponto Vila Alemã"
+    },
+    {
+		"Id": 3,
+        "Latitude": -22.3857908,
+        "Longitude": -47.5730356,
+		"Descricao": "Ecoponto Jardim Cervezão"
+    },   
+    {
+		"Id": 4,
+        "Latitude": -22.3948861,
+        "Longitude": -47.594159,
+		"Descricao": "Ecoponto Jardim Figueira"
+    }
+]
