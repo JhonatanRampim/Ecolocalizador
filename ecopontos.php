@@ -33,7 +33,7 @@
 		<script src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
         <!-- Maps API Javascript -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnrEA3ouQCgLIcfL8UZ4u_15VaSLUVx2g&callback=initialize"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=[API_KEY]&callback=initialize"></script>
         
         <!-- Caixa de informação -->
         <script src="js/infobox.js"></script>
